@@ -1,0 +1,15 @@
+{
+  "name": "hivisio-js",
+  "version": "1.0.0",
+  "description": "A helper library to use hivis.io in your node projects",
+  "main": "hivisio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hivisio",
+    "hivis.io"
+  ],
+  "author": "hivis.io",
+  "license": "GPL-3.0"
+}
